@@ -1,0 +1,12 @@
+@media (min-width:250px) and (max-width:500px) {
+    header{
+        width: 100%;
+        height: 100dvh;
+        width: cover;
+    }
+    header iframe{
+        width: 100%;
+        width: cover;
+    }
+
+}
