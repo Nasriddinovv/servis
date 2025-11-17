@@ -10,13 +10,16 @@
         margin-top: 50px;
     }
     .xizmat-content{
+        width: 100%;
         display: grid;
         grid-template-columns: 1fr 1fr;
+        justify-content: center;
+        align-items: center;
         gap: 5px;
         padding: 5px;
     }
     .xizmat-content button{
-        width: 100%;
+        width: 90%;
         height: 100px;
     }
 }
